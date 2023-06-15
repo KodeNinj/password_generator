@@ -1,4 +1,4 @@
-# password_generator
+# PASSWORD GENERATOR
 This is a password generator developed in BASH. The idea is to make it interactive and intuitive. This is my first major project in bash and i tried to utilize most of the new concepts i learnt about bash.  
 ## FEATURES
 - Ability to read HOW TO
