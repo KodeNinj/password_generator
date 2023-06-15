@@ -13,6 +13,8 @@ This is a password generator developed in BASH. The idea is to make it interacti
 - if/elif
 - variables
 - output redirection
+- for loop
+- Reading file with cat comman
 
 ## RESOURCES
 For the basic BASH tutorial, FreecodeCamp did a lot in the 45 minutes video on YouTube
